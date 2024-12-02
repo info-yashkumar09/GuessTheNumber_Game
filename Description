@@ -1,0 +1,37 @@
+🎯 Guess the Number Game 🎮
+Guess the Number is a fun and interactive console-based game developed in Java. The game challenges players to guess a randomly selected number between 1 and 100 within a specified number of attempts. With customizable difficulty and user-friendly features, it's a perfect way to sharpen your logical thinking and have some fun!
+
+📜 Features
+1. Customizable Attempts: Players can choose the number of attempts (between 1 and 6) they want to challenge themselves with.
+2. Randomized Gameplay: A new secret number is generated every time you play, ensuring endless fun.
+3. User-Friendly Hints: Get instant feedback on whether your guess is too high or too low.
+4. Victory and Defeat Messages: Celebrate your win or learn the secret number if you run out of attempts.
+
+🔧 How to Play
+1. Clone or download the repository.
+2. Compile and run the program using a Java compiler.
+3. Follow the prompts to:
+    Choose your desired number of attempts (1-6).
+    Guess the secret number within the allowed attempts.
+4. Enjoy the game!
+
+🖥️ Example Gameplay
+Enter how many attempts you want (1 to 6): 5
+
+Welcome to the 'Guess the Number Game'
+I have selected a number between 1 to 100. Now you try to guess it!
+
+Enter your guess: 50
+Your guess is too high!
+
+Enter your guess: 25
+Your guess is too low!
+
+Enter your guess: 37
+Your guess is too low!
+
+Enter your guess: 43
+Your guess is too high!
+
+Enter your guess: 40
+Congrats! You guessed the number in 5 attempts! The secret number was 40.
