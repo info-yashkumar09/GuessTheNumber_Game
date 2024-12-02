@@ -33,7 +33,7 @@ public class GuessTheNumber_Game {
 
         System.out.println("I have selected a number between 1 to 100. Now you try to Guess that number !");
         while(attempts< maxAttempts){
-            System.out.print("Enter Guess number: ");
+            System.out.print("Enter your Guess: ");
             int userGuess = sc.nextInt();
             attempts++;
 
